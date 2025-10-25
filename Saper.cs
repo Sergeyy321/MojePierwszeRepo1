@@ -70,7 +70,7 @@ class Program
                         displayBoard[y, x] = count.ToString()[0];
 
 
-
+//Fix „/??/” na „==”,.
                         if (count == 0)
 
                         {
