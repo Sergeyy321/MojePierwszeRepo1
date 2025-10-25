@@ -188,7 +188,7 @@ class Program
         }
 
 
-
+//Fix „/??/” na „return” ponieważ niezbędne zwracania wartości funkcji „displayBoard” ”.
         return displayBoard;
 
     }
