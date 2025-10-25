@@ -260,7 +260,7 @@ class Program
         for (int i = Math.Max(0, y - 1); i <= Math.Min(height - 1, y + 1); i++)
 
         {
-
+//Fix „/??/” na „Math.Min” .
             for (int j = Math.Max(0, x - 1); j <= Math.min(width - 1, x + 1); j++)
 
             {
