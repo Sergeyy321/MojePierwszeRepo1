@@ -126,7 +126,7 @@ class Program
     {
 
         char[,] board = new char[height, width];
-
+//Fix „/??/” na „new Random()”,
         Random random = new Random();
 
 
