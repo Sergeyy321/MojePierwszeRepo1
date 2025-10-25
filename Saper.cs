@@ -361,8 +361,7 @@ class Program
 
         }
 
-
-
+//Fix „/??/” na „wight”.
         return uncoveredCount == (width * height - bombCount);
 
     }
